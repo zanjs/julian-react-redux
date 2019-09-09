@@ -1,5 +1,7 @@
 # react redux 版
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/zanjs/julian-react-redux.svg)](https://greenkeeper.io/)
+
 
 ## 开发
 需要预先安装sass,compass  
